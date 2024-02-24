@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff8c00;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+
+  }
+  .header {
+    background-color: #ff4500;
+    padding: 10px;
+    text-align: center;
+  }
+  .main-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  .section {
+    width: 45%;
+  }
+  .about-me {
+    text-align: center;
+    background-color: #ff4500;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .about-me img, .settings-section img {
+    max-width: 60%;
+    height: auto;
+  }
+  .image-caption {
+    text-align: center;
+    font-size: 14px;
+    color: #333; /* Change as necessary */
+    /* Add more styling as needed */
+  }
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff4500;
+  }
+  /* Additional styles can be added as needed */
+  
